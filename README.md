@@ -1,2 +1,2 @@
-# study_rackerHank
+# study_hackerHank
 https://www.hackerrank.com/
